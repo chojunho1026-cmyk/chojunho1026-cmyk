@@ -1,5 +1,5 @@
 
-# 🚀 [전자전기융합공학 / RTL Design / SoC Architecture] 엔지니어를 꿈꾸는 조준호입니다.
+## 🚀 [전자전기융합공학 / RTL Design / SoC Architecture] 엔지니어를 꿈꾸는 조준호입니다.
 
 💡 단일 블록 설계를 넘어 시스템 전체의 데이터 흐름을 분석하며, 체계적인 원인 분석을 통해 타이밍 이슈와 병목 현상을 해결하는 과정에서 즐거움을 느낍니다.
 
@@ -32,4 +32,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chojunho1026-cmyk&show_icons=true&theme=radical)
+<a href="https://github.com/chojunho1026-cmyk">
+  <img src="https://github-readme-stats.vercel.app/api?username=chojunho1026-cmyk&show_icons=true&theme=radical" alt="GitHub stats" />
+</a>
