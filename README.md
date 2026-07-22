@@ -33,5 +33,3 @@
 ## 📈 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chojunho1026-cmyk&show_icons=true&theme=radical)](https://github.com/chojunho1026-cmyk)
-
-
